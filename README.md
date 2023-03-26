@@ -10,6 +10,5 @@
 <code> <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="25px"> </code>
 <code> <img src="https://image.pngaaa.com/282/619282-middle.png" width="25px"> </code>
 <code> <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" width="25px"> </code>
-<br>
+<br><br><br>
 - 📍 &nbsp; Current location: Samarqand, Uzbekiston
--

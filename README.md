@@ -1,5 +1,5 @@
 ### Hi there 
-<img src="https://media.giphy.com/media/hSWLUec2syFY0uJ4rh/giphy.gif">
+<img src="https://media.giphy.com/media/hSWLUec2syFY0uJ4rh/giphy.gif" width="30px">
 ### I am Temurbek Yorkulov 
 <!--
 **Temur1918/Temur1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there &nbsp; <img src="https://media.giphy.com/media/hSWLUec2syFY0uJ4rh/giphy.gif" width="20px">
-### I am Temurbek Yorkulov <img src="[https://giphy.com/gifs/ubykotexbrand-bye-wave-xT39DoCQMa5mEdQ3w4](https://media1.giphy.com/media/C2HbQzryf8V3Bxea5k/200w.webp?cid=ecf05e47v5rqg9euaj1uokss4m019580t185idke1fx7zeje&rid=200w.webp&ct=g)" width="30px">
+### I am Temurbek Yorkulov <iframe src="https://giphy.com/embed/El6Gechhtpr9TDroVZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iamjosephroyal-raise-hand-raising-El6Gechhtpr9TDroVZ">via GIPHY</a></p>
 <!--
 **Temur1918/Temur1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

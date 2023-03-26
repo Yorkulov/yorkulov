@@ -13,4 +13,4 @@
 <br><br><br>
 - 📍 &nbsp; Current location: Samarqand, Uzbekiston
 - <hr>
-- 📞 &nbsp; Contact me: [@TemurbekYorkulov](https://instagram.com/mr.temurbek_18_19/)
+- 📞 &nbsp; Contact me: [@temurbekyorkulov](https://instagram.com/mr.temurbek_18_19/)

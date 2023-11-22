@@ -13,4 +13,4 @@
 <br><br><br>
 - 📍 &nbsp; Current location: Toshkent, Uzbekiston
 - <hr>
-- 📞 &nbsp; Contact me: <a href="https://instagram.com/mr.temurbek_18_19">@TemurbekYorkulov</a>
+- 📞 &nbsp; Contact me: <a href="https://t.me//+998930941918">@TemurbekYorkulov</a>

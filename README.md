@@ -1,19 +1,27 @@
 ### Hi there &nbsp; <img src="https://media.giphy.com/media/hSWLUec2syFY0uJ4rh/giphy.gif" width="20px">
-### I am Temurbek Yorkulov &nbsp; <img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="48px">
+### I am Temurbek Yorkulov &nbsp; Fullstack Developer and Cybersecurity Specialist<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="48px">
 <br>
 <h2>Languages and tools I work with:</h2>
 
 Python, Flask, Django, Django-Rest-Framework, FastAPI
 
-Swagger, Reduc, RabbitMQ, Celery
+Swagger, Reduc
 
-PostgresSQL
+RabbitMQ, Celery
 
-HTML, CSS, Bootstrap
+PostgresSQL, MySQL
+
+HTML, CSS, Bootstrap, JavaScript
 
 Git, Github 
 
+C++, go
+
+Bash, Powershell, Python Scripting
+
 Linux, Windows
+
+Apache, Ngnix, Gunicorn
 <!-- <code> <img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width="25px"> </code>
 <code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="25px"> </code>
 <code> <img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="25px"> </code>

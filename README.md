@@ -1,26 +1,20 @@
-<!-- PROFIL ANIMATSIYASI -->
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=27EFA8&background=00000000&center=true&vCenter=true&width=600&lines=👾%E2%80%8B+Kiberxavfsizlik+va+Django+Backend+Eksperti;🚀+Github+Profiliga+Xush+Kelibsiz!;+😉)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=800&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=Assalomu+aleykum.;Siz+Django+Backend+va+Kiberxavfsizlik+mutaxassisi+profilidasiz.;Amaliy+tajriba+va+haqiqiy+yechimlarga+asoslangan+ish+prinsipi.;Texnologiyalar,+tartib,+aniqlik.)
 
 ---
 
-## 👋 Salom, men Temurbek Yorkulov!
+## 👋 Temurbek Yorkulov
 
-### 💼 **Kiberxavfsizlik sohasida mutaxassis, tajribali Python & Django dasturchisi, va o‘rtoqlik va hamkorlikka ochiq hamkasbman.**
-
----
-
-### 🛡️ **Asosiy yo‘nalishlarim:**
-
-- **Kiberxavfsizlik:** zaifliklarni aniqlash, tarmoqlarni tahlil qilish, penetration testing, real vaqtda himoya strategiyalari
-- **Backend dasturlash:** Django, DRF, FastAPI, RESTful API’lar, ma’lumotlar bazasi dizayni va optimizatsiya
-- **DevOps:** Docker, Linux, CI/CD, Nginx, scalable deployment
-- **O‘quv va mentorlik:** yosh dasturchilar va kibermuxandislar uchun trening va master-klasslar
+### Django Backend | Kiberxavfsizlik | Pentesting
 
 ---
 
-### 🚀 **Biladigan texnologiyalarim:**
+> Kiberxavfsizlik va web backend sohasida amaliy va ilmiy bilimlarni birlashtirgan mutaxassis. Har bir loyiha — maksimal xavfsizlik, samaradorlik va barqarorlik tamoyillari asosida ishlab chiqiladi. Professional yondashuv va natijaviylik — asosiy ustuvorlik.
 
-#### 🔒 **Kiberxavfsizlik:**
+---
+
+### Asosiy texnologiyalar:
+
+#### Kiberxavfsizlik va Pentesting:
 [![](https://img.shields.io/badge/Nmap-008888?style=for-the-badge&logo=linux&logoColor=white)]()
 [![](https://img.shields.io/badge/BurpSuite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)]()
 [![](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)]()
@@ -34,7 +28,7 @@
 [![](https://img.shields.io/badge/Sublist3r-222?style=for-the-badge&logo=python&logoColor=yellow)]()
 [![](https://img.shields.io/badge/Aircrack--ng-222?style=for-the-badge&logo=airplayaudio&logoColor=orange)]()
 
-#### ⚙️ **Backend & DevOps:**
+#### Backend & DevOps:
 [![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
 [![](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=red)]()
@@ -47,21 +41,17 @@
 [![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
 [![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)]()
 
-#### 💻 **Frontend va boshqa:**
+#### Frontend va boshqa:
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ---
 
-### ✉️ **Bog‘lanish:**
+### Aloqa uchun:
 - Telegram: [@temurbek_yorkulov](https://t.me/temurbek_yorkulov)
 - Email: temurbek.yorkulov@gmail.com
 
 ---
 
-> ***Savollar, loyihalar va hamkorlik uchun har doim ochiqman.***
-
----
-
-<!-- Qo'shimcha: portfolio, blog, yoki boshqa linklarni ham bemalol qo'sha olasiz! -->
+<!-- Qolgan linklar yoki portfolio kerak bo‘lsa, qo‘shishingiz mumkin. -->

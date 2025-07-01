@@ -1,9 +1,26 @@
-<!-- PROFIL ANIMATSIYASI - GIF yoki SVG ishlatish (masalan, GitHub skyline yoki waves) -->
+<!-- PROFIL ANIMATSIYASI -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=27EFA8&background=00000000&center=true&vCenter=true&width=600&lines=👾%E2%80%8B+Kiberxavfsizlik+va+Django+Backend+Eksperti;🚀+Github+Profiliga+Xush+Kelibsiz!;Qabul+qilindingiz+!+😉" alt="Typing SVG" />
+
 ---
 
-### 🛡️ **Kiberxavfsizlik va Backend sohasida bilganlarim**
+## 👋 Salom, men Temurbek Yorkulov!
 
-#### 🔒 **Kiberxavfsizlik texnologiyalari:**
+### 💼 **Kiberxavfsizlik sohasida mutaxassis, tajribali Python & Django dasturchisi, va o‘rtoqlik va hamkorlikka ochiq hamkasbman.**
+
+---
+
+### 🛡️ **Asosiy yo‘nalishlarim:**
+
+- **Kiberxavfsizlik:** zaifliklarni aniqlash, tarmoqlarni tahlil qilish, penetration testing, real vaqtda himoya strategiyalari
+- **Backend dasturlash:** Django, DRF, FastAPI, RESTful API’lar, ma’lumotlar bazasi dizayni va optimizatsiya
+- **DevOps:** Docker, Linux, CI/CD, Nginx, scalable deployment
+- **O‘quv va mentorlik:** yosh dasturchilar va kibermuxandislar uchun trening va master-klasslar
+
+---
+
+### 🚀 **Biladigan texnologiyalarim:**
+
+#### 🔒 **Kiberxavfsizlik:**
 [![](https://img.shields.io/badge/Nmap-008888?style=for-the-badge&logo=linux&logoColor=white)]()
 [![](https://img.shields.io/badge/BurpSuite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)]()
 [![](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)]()
@@ -37,8 +54,14 @@
 
 ---
 
-> ***Savollar, loyihalar va kollab uchun ochiqman. Ishonchli va samarali hamkorlik uchun har doim tayyorman!***
+### ✉️ **Bog‘lanish:**
+- Telegram: [@temurbek_yorkulov](https://t.me/temurbek_yorkulov)
+- Email: temurbek.yorkulov@gmail.com
 
 ---
 
-<!-- Kontakt yoki boshqa maxsus joy qo‘shmoqchi bo‘lsangiz, yozing! -->
+> ***Savollar, loyihalar va hamkorlik uchun har doim ochiqman.***
+
+---
+
+<!-- Qo'shimcha: portfolio, blog, yoki boshqa linklarni ham bemalol qo'sha olasiz! -->

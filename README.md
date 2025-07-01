@@ -1,5 +1,5 @@
 <!-- PROFIL ANIMATSIYASI -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=27EFA8&background=00000000&center=true&vCenter=true&width=600&lines=👾%E2%80%8B+Kiberxavfsizlik+va+Django+Backend+Eksperti;🚀+Github+Profiliga+Xush+Kelibsiz!;Qabul+qilindingiz+!+😉" alt="Typing SVG" />
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=27EFA8&background=00000000&center=true&vCenter=true&width=600&lines=👾%E2%80%8B+Kiberxavfsizlik+va+Django+Backend+Eksperti;🚀+Github+Profiliga+Xush+Kelibsiz!;+😉)
 
 ---
 

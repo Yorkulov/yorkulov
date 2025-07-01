@@ -39,7 +39,6 @@
 
 ---
 
-### 🧑‍💻 **Qiziqasizmi? Mening profilimga hush kelibsiz — qabul qilindingiz!** 😎🎉  
 > ***Savollar, loyihalar va kollab uchun ochiqman. Ishonchli va samarali hamkorlik uchun har doim tayyorman!***
 
 ---

@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=800&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=Assalomu+aleykum.;Siz+Django+Backend+va+Kiberxavfsizlik+mutaxassisi+profilidasiz.;Amaliy+tajriba+va+haqiqiy+yechimlarga+asoslangan+ish+prinsipi.;Texnologiyalar,+tartib,+aniqlik.)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=800&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=Assalomu+Alaykum.;Men+Django+Backend+va+Kiberxavfsizlik+mutaxassisi.;Haqiqiy+yechimlarga+asoslangan+ish+prinsipi.;Texnologiyalar,+tartib,+aniqlik.)
 
 ---
 

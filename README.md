@@ -1,38 +1,47 @@
-### Hi there &nbsp; <img src="https://media.giphy.com/media/hSWLUec2syFY0uJ4rh/giphy.gif" width="20px">
-### I am Temurbek Yorkulov &nbsp; Fullstack Developer and Cybersecurity Specialist<img src="https://media.giphy.com/media/9rhNJScGSlneHpLtnz/giphy.gif" width="48px">
-<br>
-<h2>Languages and tools I work with:</h2>
+<!-- PROFIL ANIMATSIYASI - GIF yoki SVG ishlatish (masalan, GitHub skyline yoki waves) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=27EFA8&background=00000000&center=true&vCenter=true&width=600&lines=👾%E2%80%8B+Kiberxavfsizlik+va+Django+Backend+Eksperti;🚀+Github+Profiliga+Xush+Kelibsiz!;Qabul+qilindingiz+!+😉" alt="Typing SVG" />
 
-Python, Flask, Django, Django-Rest-Framework, FastAPI
+---
 
-Swagger, Reduc
+### 🛡️ **Kiberxavfsizlik va Backend sohasida bilganlarim**
 
-RabbitMQ, Celery
+#### 🔒 **Kiberxavfsizlik texnologiyalari:**
+[![](https://img.shields.io/badge/Nmap-008888?style=for-the-badge&logo=linux&logoColor=white)]()
+[![](https://img.shields.io/badge/BurpSuite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)]()
+[![](https://img.shields.io/badge/Metasploit-3C3C3D?style=for-the-badge&logo=metasploit&logoColor=white)]()
+[![](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
+[![](https://img.shields.io/badge/Nessus-1A92FF?style=for-the-badge&logo=tenable&logoColor=white)]()
+[![](https://img.shields.io/badge/OSINT-4B4B4B?style=for-the-badge&logo=hackaday&logoColor=white)]()
+[![](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
+[![](https://img.shields.io/badge/SQLmap-F8DC3E?style=for-the-badge&logo=sqlite&logoColor=black)]()
+[![](https://img.shields.io/badge/John%20the%20Ripper-EE0000?style=for-the-badge&logo=keybase&logoColor=white)]()
+[![](https://img.shields.io/badge/Hydra-222?style=for-the-badge&logo=gnubash&logoColor=green)]()
+[![](https://img.shields.io/badge/Sublist3r-222?style=for-the-badge&logo=python&logoColor=yellow)]()
+[![](https://img.shields.io/badge/Aircrack--ng-222?style=for-the-badge&logo=airplayaudio&logoColor=orange)]()
 
-PostgresSQL, MySQL
+#### ⚙️ **Backend & DevOps:**
+[![](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)]()
+[![](https://img.shields.io/badge/Django%20Rest%20Framework-092E20?style=for-the-badge&logo=django&logoColor=red)]()
+[![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+[![](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)]()
 
-HTML, CSS, Bootstrap, JavaScript
+#### 💻 **Frontend va boshqa:**
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-Git, Github 
+---
 
-C++, go
+### 🧑‍💻 **Qiziqasizmi? Mening profilimga hush kelibsiz — qabul qilindingiz!** 😎🎉  
+> ***Savollar, loyihalar va kollab uchun ochiqman. Ishonchli va samarali hamkorlik uchun har doim tayyorman!***
 
-Bash, Powershell, Python Scripting
+---
 
-Linux, Windows
-
-Apache, Ngnix, Gunicorn
-<!-- <code> <img src="https://www.freeiconspng.com/thumbs/html5-icon/html5-icon-1.png" width="25px"> </code>
-<code> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="25px"> </code>
-<code> <img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" width="25px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="25px"> </code>
-<code> <img src="https://www.kindpng.com/picc/m/67-678384_transparent-javascript-icon-png-png-download.png" width="25px"> </code>
-<code> <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="25px"> </code>
-<code> <img src="https://image.pngaaa.com/282/619282-middle.png" width="25px"> </code>
-<code> <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" width="25px"> </code> -->
-<br><br><br>
-🌐  <a href="https://www.aliensplanet.uz/">My Website</a>
-<br><br><br>
-- 📍 &nbsp; Current location: Toshkent, Uzbekiston
-- <hr>
-- 📞 &nbsp; Contact me: <a href="https://t.me//+998930941918">@TemurbekYorkulov</a>
+<!-- Kontakt yoki boshqa maxsus joy qo‘shmoqchi bo‘lsangiz, yozing! -->

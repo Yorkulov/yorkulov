@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=900&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=Temurbek+Yorkulov.;Kiberxavfsizlik+mutaxassisi.;Fullstack+dasturchi.;Aniqlik+va+xavfsizlik+prinsipi.;Professional+yechim+va+tajriba.)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=900&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=Assalom+Alaykum;Temurbek+Yorkulov.;Kiberxavfsizlik+mutaxassisi.;Fullstack+dasturchi.;Aniqlik+va+xavfsizlik+prinsipi.;Professional+yechim+va+tajriba.)
 
 ---
 
@@ -49,8 +49,8 @@
 ---
 
 ### Aloqa uchun:
-- Telegram: [@temurbek_yorkulov](https://t.me/temurbek_yorkulov)
-- Email: temurbek.yorkulov@gmail.com
+- Telegram: [@temurbek_yorkulov](https://t.me/@Yorkulov_Temurbek)
+- Email: timaalien00@gmail.com
 
 ---
 

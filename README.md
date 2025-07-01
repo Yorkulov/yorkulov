@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=900&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=ASSALOM+ALAYKUM;TEMURBEK+YORKULOV;KIBERXAVFSIZLIK+MUTAXASSISI;FULLSTACK+DASTURCHI;ANIQLIK+VA+XAVFSIZLIK+PRINSIPI;PROFESSIONAL+YECHIM+VA+TAJRIBA;HAMDA+KREATIV;)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=900&color=27EFA8&background=00000000&center=true&vCenter=true&width=650&lines=ASSALOM+ALAYKUM;TEMURBEK+YORKULOV;KIBERXAVFSIZLIK+MUTAXASSISI;FULLSTACK+DASTURCHI;ANIQLIK+VA+XAVFSIZLIK+PRINSIPI;PROFESSIONAL+YECHIM+VA+TAJRIBA;HAMDA+KREATIV!;)
 
 ---
 

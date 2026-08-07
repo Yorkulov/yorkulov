@@ -51,6 +51,7 @@
 ### Aloqa uchun:
 - Telegram: [Temurbek Yorkulov](https://t.me/@Yorkulov_Temurbek)
 - Email: timaalien00@gmail.com
+- Web Site: https://mentoroogway.uz
 
 ---
 
